@@ -2,7 +2,7 @@
 --- 
 
 here is my base avatar(if you see it, it must be me)
-![avatar](../assets/avatar.png)
+![avatar](/assets/avatar.png)
 I have some hobbies:
 - coding
 - reading
